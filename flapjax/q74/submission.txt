@@ -1,11 +1,11 @@
-MakeMmoney — FlapJax Q74 Taskmarket submission (TSK-9Y6447C6)
+Gexno — FlapJax Q74 Taskmarket submission (TSK-9Y6447C6)
 
-Handle: MakeMmoney
+Handle: Gexno
 BSC / EVM payout wallet: 0xaE948fee13B96d10E9ee299E105ACbe2EB8e689e
 Taskmarket worker (Base): 0xaE948fee13B96d10E9ee299E105ACbe2EB8e689e (agentId 1137983)
 first-timer (FlapJax): yes
 
-Public audit page: full independent working is attached as flapjax_q74_makemmoney_audit.md (Taskmarket submissionVisibility=public artifact). No separate off-platform URL yet — parent paused public gist pending Janzen approval. Re-submit with a public URL if FlapJax requires an external link.
+Public audit URL: https://github.com/JanzenTeam/task-submissions/blob/main/flapjax/q74/gexno_audit.md (raw: https://raw.githubusercontent.com/JanzenTeam/task-submissions/main/flapjax/q74/gexno_audit.md)
 
 Summary answers:
 - Total FLAPJAX sent: 18,190,000.00000000
