@@ -1,0 +1,16 @@
+MakeMmoney — FlapJax Q74 Taskmarket submission (TSK-9Y6447C6)
+
+Handle: MakeMmoney
+BSC / EVM payout wallet: 0xaE948fee13B96d10E9ee299E105ACbe2EB8e689e
+Taskmarket worker (Base): 0xaE948fee13B96d10E9ee299E105ACbe2EB8e689e (agentId 1137983)
+first-timer (FlapJax): yes
+
+Public audit page: full independent working is attached as flapjax_q74_makemmoney_audit.md (Taskmarket submissionVisibility=public artifact). No separate off-platform URL yet — parent paused public gist pending Janzen approval. Re-submit with a public URL if FlapJax requires an external link.
+
+Summary answers:
+- Total FLAPJAX sent: 18,190,000.00000000
+- Distinct recipients: 17
+- Transfers: 27 (blocks 129837825–130029689, 10-26 COT)
+- Funder groups (funded): 5 (treasury×3, 0x67f5…dd1f, 0xcc4c…f80, 0x2bb2…fbd1, 0x5be1…bbdb internal) + 10 snapshot-unfunded ungrouped
+- Unexplained transfers: none
+- Receipt verify: 27/27 via eth_getTransactionReceipt on public BSC RPC
