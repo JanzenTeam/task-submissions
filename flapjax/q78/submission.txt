@@ -1,0 +1,18 @@
+Gexno — FlapJax Q78 Taskmarket submission (TSK-QMV5MMJW)
+
+Handle: Gexno
+BSC / EVM payout wallet: 0xaE948fee13B96d10E9ee299E105ACbe2EB8e689e
+Taskmarket worker (Base): 0xaE948fee13B96d10E9ee299E105ACbe2EB8e689e (agentId 1137983)
+first-timer (FlapJax): yes
+
+Public audit URL: https://github.com/JanzenTeam/task-submissions/blob/main/flapjax/q78/gexno_audit.md (raw: https://raw.githubusercontent.com/JanzenTeam/task-submissions/main/flapjax/q78/gexno_audit.md)
+
+Summary answers:
+- Total FLAPJAX sent: 2,480,000
+- Distinct recipients: 10
+- Transfers: 17 (blocks 130221520–130413457, 10-28 COT)
+- Funder groups: 3 funded groups + 6 snapshot-unfunded
+- Unexplained transfers: none
+- Receipt verify: 17/17 via eth_getTransactionReceipt on public BSC RPC
+
+Method: independent eth_getLogs + receipt re-check + candidate first-BNB funder txs re-verified with eth_getTransactionByHash. Full tables in the public audit markdown.
